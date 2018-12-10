@@ -1,2 +1,3 @@
 # Particle
-Ini Url Online Particle-Js
+This particle js script.
+You can use it for project web or blog.
